@@ -39,7 +39,7 @@ Wrapped in a bespoke "Cyber-Glass" dark UI, it offers a professional-grade analy
 | **Data Processing** | pandas, NumPy |
 | **NLP Engine** | VADER (NLTK), Regex |
 | **Data Source** | Twitter API v2 (via Tweepy) |
-| **Frontend Framework** | Streamlit |
+| **Frontend Framework** | Google AI Studio (Auto-Generated UI) |
 | **Visualization** | Matplotlib, Plotly |
 | **Styling** | Custom CSS3 (Glassmorphism, CSS Variables) |
 
@@ -55,7 +55,7 @@ Wrapped in a bespoke "Cyber-Glass" dark UI, it offers a professional-grade analy
 | **Phase IV** | **Aesthetics**: Designing the custom dark theme and neon UI components. | ✅ |
 | **Phase V** | **Scale**: Optimizing pagination loops to handle 5,000+ records efficiently. | ✅ |
 | **Phase VI** | **Identity**: Finalizing the "X Insight" branding and logo. | ✅ |
-| **Phase VII** | **Launch**: Deployment and environment configuration. | ✅ |
+
 
 ---
 
@@ -108,7 +108,7 @@ Standard Streamlit looks scientific but dry. We inject **Custom CSS** to overrid
 *   **Neon Accents**: Buttons and headers utilize CSS `box-shadow` properties to create glowing borders in Cyan (`#2EF2FF`) and Purple (`#A06BFF`).
 *   **Logo**: The X Insight logo represents the intersection of data (blue) and human emotion (purple), rendered as a vector graphic.
 
-
+---
 
 ## 7. 🔮 Future Enhancements
 
