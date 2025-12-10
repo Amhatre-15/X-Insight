@@ -108,37 +108,9 @@ Standard Streamlit looks scientific but dry. We inject **Custom CSS** to overrid
 *   **Neon Accents**: Buttons and headers utilize CSS `box-shadow` properties to create glowing borders in Cyan (`#2EF2FF`) and Purple (`#A06BFF`).
 *   **Logo**: The X Insight logo represents the intersection of data (blue) and human emotion (purple), rendered as a vector graphic.
 
----
 
-## 7. 💻 Setup & Installation
 
-**Prerequisites**: Python 3.8+ and a Twitter Developer Account (Bearer Token).
-
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/your-username/x-insight.git
-    cd x-insight
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Environment Configuration**
-    Create a `.env` file in the root directory:
-    ```env
-    TWITTER_BEARER_TOKEN=your_token_here_example_xyz
-    ```
-
-4.  **Launch the Dashboard**
-    ```bash
-    streamlit run app.py
-    ```
-
----
-
-## 8. 🔮 Future Enhancements
+## 7. 🔮 Future Enhancements
 
 *   **⚔️ Head-to-Head Mode**: Compare two topics (e.g., "Apple vs. Samsung") on a split screen.
 *   **🗺️ Geo-Spatial Mapping**: Visualize where tweets are coming from on a 3D globe.
@@ -148,7 +120,7 @@ Standard Streamlit looks scientific but dry. We inject **Custom CSS** to overrid
 
 ---
 
-## 9. 🌌 Vibe Coding: The Aesthetic
+## 8. 🌌 Vibe Coding: The Aesthetic
 
 > *Code is poetry. Data is the ink.*
 
@@ -162,12 +134,4 @@ This project proves that data science doesn't have to be sterile. It can be imme
 
 ---
 
-## 10. 🙌 Acknowledgements
 
-*   **Civora Nexus**: Deep gratitude for the internship platform and mentorship provided.
-*   **Streamlit Community**: For the robust framework that makes Python web apps possible.
-*   **NLTK Team**: For maintaining the incredible VADER lexicon.
-
----
-
-*Built with precision and passion by [Your Name]*
