@@ -4,6 +4,10 @@
 ![Stack](https://img.shields.io/badge/Tech-Python%20%7C%20Streamlit-A06BFF?style=for-the-badge)
 ![Vibe](https://img.shields.io/badge/Aesthetic-Neon%20Cyberpunk-3A8CFF?style=for-the-badge)
 
+
+https://github.com/user-attachments/assets/c06bd170-f9ee-403f-8950-88ed067cc67d
+
+
 ## 1. 🌌 Project Introduction
 
 **X Insight** is a high-velocity sentiment analysis dashboard designed to parse the chaotic stream of public discourse on X (formerly Twitter). In an era of information overload, raw data is noise; X Insight converts that noise into signal.
